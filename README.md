@@ -33,9 +33,6 @@ $ git clone https://github.com/augustocesarfmo/jogo-da-forca-web.git
 
 # Acessando o repositório
 $ cd jogo-da-forca-web
-
-# Executando o app
-$ Live Server
 ```
 
 ## 📝 Licença
